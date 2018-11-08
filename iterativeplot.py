@@ -1,5 +1,5 @@
 """
-This script generates iterative plots to expedite EDA
+This module generates iterative plots to expedite EDA
 """
 
 import matplotlib.pyplot as plt
