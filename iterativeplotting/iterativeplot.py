@@ -12,7 +12,7 @@ class IterativePlot:
 		self.df = df
 		self.outcome_col = outcome_col
 		self.df_pos = df[df[outcome_col] == 1]
-        self.df_neg = df[df[outcome_col] == 0]
+        	self.df_neg = df[df[outcome_col] == 0]
 
 		
     def iterative_distplot(self, col_list = []):
