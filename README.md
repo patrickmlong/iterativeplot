@@ -1,2 +1,2 @@
 # iterativeplot
-Module that generates iterative plots to expedite EDA
+A package that generates iterative plots to expedite EDA
