@@ -1,2 +1,2 @@
 # iterativeplot
-A package that generates iterative plots to expedite EDA
+A package to generate iterative plots for EDA
